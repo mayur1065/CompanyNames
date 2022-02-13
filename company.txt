@@ -3,3 +3,5 @@ Avaya
 FinIQ
 Amazon
 Google
+Entytle 
+Accenture
